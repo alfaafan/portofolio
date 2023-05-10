@@ -1,0 +1,8 @@
+export default function Head() {
+  return (
+    <>
+      <title>Portofolio | Alfaafan Yusufa Achmad</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+    </>
+  );
+}
